@@ -35,6 +35,26 @@ As an Army National Guard **Team Leader**, I:
 - **Lucy Nailed It** – Full-stack salon-booking platform with real-time scheduling and Square API integration  
 ---
 
+## 💼 Projects
+
+### 🪄 [Lucy Nailed It](https://github.com/taejook/lucynailedit)
+A **salon-booking platform** that connects clients, services, and team members through Square API integration.  
+- Built with **React**, **Node.js**, **Express**, and **MongoDB**  
+- Includes **real-time booking**, **calendar synchronization**, and **responsive UI**  
+- Deployed via **Google Cloud**
+
+### 🧾 [se_project_express](https://github.com/taejook/se_project_express)
+A full-stack **Express.js + MongoDB** project featuring CRUD operations and secure API routes.  
+- REST API design with middleware authorization  
+- Scalable backend structure ideal for production environments
+
+### 🖼️ [se_project_aroundtheus](https://github.com/taejook/se_project_aroundtheus)
+A responsive front-end React project that emphasizes **UX/UI design principles**.  
+- Built modular components for dynamic image rendering and gallery features  
+- Implemented responsive design for mobile and tablet devices
+
+---
+
 ### 🎯 Focus Areas
 - Scalable web app architecture  
 - Cloud-native deployments  
