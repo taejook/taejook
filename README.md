@@ -66,5 +66,5 @@ A responsive front-end React project that emphasizes **UX/UI design principles**
 ### 🌐 Let’s Connect
 - [GitHub Portfolio](https://github.com/taejook)  
 - [LinkedIn Profile](https://www.linkedin.com/in/taejookim/)  
-- 📧 taejook1107@gmail.com (optional)
+- 📧 taejook1107@gmail.com
 
