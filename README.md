@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hey there — I’m TaeJoo Kim, the mind behind **Lucy Nailed It**, a full-stack salon-booking platform integrating React, Node.js, and Square API.  
 
-<!--
-**taejook/taejook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I love turning UX-focused product ideas into production-ready apps — blending creativity with solid engineering.  
+🎖️ My background? Team Leader (13J) in the Army National Guard — where I led teams, trained personnel, and delivered mission-critical data under pressure.  
+That experience shaped how I build software: disciplined, scalable, and user-driven.
 
-Here are some ideas to get you started:
+**Tech Stack:**  
+React · Node.js / Express · MongoDB · Square API · Google Cloud · TailwindCSS · Git  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current Focus:**  
+- Expanding Lucy Nailed It with real-time booking & mobile optimization  
+- Building clean, maintainable APIs & micro-services  
+- Continuous learning in DevOps & system design  
+
+📂 Check out my projects → [github.com/taejook](https://github.com/taejook)  
+📬 Let’s connect & build something great!
